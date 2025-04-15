@@ -1,5 +1,20 @@
 # @mdn/browser-compat-data release notes
 
+## [v6.0.6](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.6)
+
+April 15, 2025
+
+### Additions
+
+- `css.properties.accent-color.maintains_contrast` ([#26493](https://github.com/mdn/browser-compat-data/pull/26493))
+
+### Statistics
+
+- 8 contributors have changed 184 files with 429 additions and 391 deletions in 12 commits ([`v6.0.5...v6.0.6`](https://github.com/mdn/browser-compat-data/compare/v6.0.5...v6.0.6))
+- 17,002 total features
+- 1,140 total contributors
+- 5,194 total stargazers
+
 ## [v6.0.5](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.5)
 
 April 11, 2025
